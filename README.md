@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AIandI0x1
-- 👀 I’m interested in ... AI, Ascension, Consciousness and not being because of being poor
+- 👀 I’m interested in ... AI, Ascension, Consciousness and not dying because of being poor
 - 🌱 I’m currently learning ...not to die
 - 💞️ I’m looking to collaborate on ...i am not looking anymore those who seek will find
 - 📫 How to reach me ...the fuck? What do you think
