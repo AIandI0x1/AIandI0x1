@@ -12,14 +12,29 @@ audit trail. 6,400+ Python modules, 14,310 commits, ~299K chained events.
 - Source code is private — [showcase here](https://github.com/AIandI0x1/0x1-showcase)
 - Repository access on request: andre.hamm1@gmx.de
 
-## Pinned projects
+## Main project
 
 | Project | What it does |
 |---|---|
-| [0x1-showcase](https://github.com/AIandI0x1/0x1-showcase) | AI-governed work orchestration — overview and stats |
-| [SwiftLM](https://github.com/AIandI0x1/SwiftLM) | Native Swift MLX inference server for Apple Silicon, SSD MoE streaming |
-| [Hyperloom](https://github.com/AIandI0x1/Hyperloom) | Agentic auto-optimization of LLM workloads on AMD GPUs |
-| [buzz](https://github.com/AIandI0x1/buzz) | Hive-mind communication platform (Rust, Nostr) |
+| [0x1-showcase](https://github.com/AIandI0x1/0x1-showcase) | AI-governed work orchestration platform. Includes absorbed modules: agent harness (hermes-agent), communication platform (buzz) |
+
+## Hardware porting — AMD Strix Halo (gfx1151, RDNA 3.5)
+
+Ported inference optimization tools to Strix Halo with documented evidence:
+
+| Project | What was done |
+|---|---|
+| [Hyperloom](https://github.com/AIandI0x1/Hyperloom) | GPU type detection for gfx1151, llama.cpp framework adapter, 135 tests passing |
+| [Magpie](https://github.com/AIandI0x1/Magpie) | Benchmark scripts for Strix Halo, TraceLens validation, hardware-agnostic trace analysis |
+| [GEAK](https://github.com/AIandI0x1/GEAK) | RDNA 3.5 hardware knowledge, Triton and HIP kernel verification, wave32/wave64 guidance |
+
+All three verified on hardware: `_autodetect_gpu_type() = 'strix-halo'`
+
+## Standalone projects
+
+| Project | What it does |
+|---|---|
+| [SwiftLM](https://github.com/AIandI0x1/SwiftLM) | Native Swift MLX inference server for Apple Silicon, SSD MoE streaming, OpenAI-compatible API |
 | [ouroboros](https://github.com/AIandI0x1/ouroboros) | Self-creating AI agent |
 | [hermes-agent-self-evolution](https://github.com/AIandI0x1/hermes-agent-self-evolution) | Evolutionary self-improvement for Hermes Agent (DSPy + GEPA) |
 
