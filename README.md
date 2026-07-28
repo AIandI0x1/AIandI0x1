@@ -8,7 +8,7 @@ audit trail. 6,400+ Python modules, 14,310 commits, ~299K chained events.
 
 - Currently retraining as IT Specialist for Data and Process Analysis (COMCAVE.COLLEGE, Essen)
 - Orchestrating AI work across cloud and local — local execution layer bootstrapping on AMD Strix Halo (128 GB unified memory)
-- Multi-node setup: macOS + Linux over Tailscale
+- Multi-node setup: macOS + Linux over private mesh
 - Source code is private — [showcase here](https://github.com/AIandI0x1/0x1-showcase)
 - Repository access on request: andre.hamm1@gmx.de
 
@@ -16,7 +16,7 @@ audit trail. 6,400+ Python modules, 14,310 commits, ~299K chained events.
 
 | Project | What it does |
 |---|---|
-| [0x1-showcase](https://github.com/AIandI0x1/0x1-showcase) | AI-governed work orchestration — architecture, stats, overview |
+| [0x1-showcase](https://github.com/AIandI0x1/0x1-showcase) | AI-governed work orchestration — overview and stats |
 | [SwiftLM](https://github.com/AIandI0x1/SwiftLM) | Native Swift MLX inference server for Apple Silicon, SSD MoE streaming |
 | [Hyperloom](https://github.com/AIandI0x1/Hyperloom) | Agentic auto-optimization of LLM workloads on AMD GPUs |
 | [buzz](https://github.com/AIandI0x1/buzz) | Hive-mind communication platform (Rust, Nostr) |
