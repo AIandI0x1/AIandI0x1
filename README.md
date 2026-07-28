@@ -9,7 +9,6 @@ audit trail. 6,400+ Python modules, 14,310 commits, ~299K chained events.
 - Orchestrating AI work across cloud and local — local execution layer bootstrapping on AMD Strix Halo (128 GB unified memory)
 - Multi-node setup: macOS + Linux over private mesh
 - Source code is private — [showcase here](https://github.com/AIandI0x1/0x1-showcase)
-- Repository access on request: andre.hamm1@gmx.de
 
 ## Main project
 
