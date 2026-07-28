@@ -35,7 +35,6 @@ All three verified on hardware: `_autodetect_gpu_type() = 'strix-halo'`
 | Project | What it does |
 |---|---|
 | [SwiftLM](https://github.com/AIandI0x1/SwiftLM) | Native Swift MLX inference server for Apple Silicon, SSD MoE streaming, OpenAI-compatible API |
-| [ouroboros](https://github.com/AIandI0x1/ouroboros) | Self-creating AI agent |
 | [hermes-agent-self-evolution](https://github.com/AIandI0x1/hermes-agent-self-evolution) | Evolutionary self-improvement for Hermes Agent (DSPy + GEPA) |
 
 ## Recognition
