@@ -36,14 +36,5 @@ All three verified on hardware: `_autodetect_gpu_type() = 'strix-halo'`
 | [SwiftLM](https://github.com/AIandI0x1/SwiftLM) | Native Swift MLX inference server for Apple Silicon, SSD MoE streaming, OpenAI-compatible API |
 | [hermes-agent-self-evolution](https://github.com/AIandI0x1/hermes-agent-self-evolution) | Evolutionary self-improvement for Hermes Agent (DSPy + GEPA) |
 
-## Recognition
 
-- **Devin Pro Max** — tool access funded by [Nader Dabit](https://x.com/naderdabit) (AI developer advocate, ~100k followers)
-- **hoplite.sh** — Pro account granted directly by Ryan Morrissey (Co-Founder & CEO, Hoplite / YC S26)
-- **boardyai** — lifetime member
-
-## Contact
-
-- Email: andre.hamm1@gmx.de
-- Location: Essen, Germany
 - One step at a time.
