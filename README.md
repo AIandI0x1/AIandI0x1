@@ -7,7 +7,7 @@ that manages AI agents, verifies their output, and maintains a tamper-evident
 audit trail. 6,400+ Python modules, 14,310 commits, ~299K chained events.
 
 - Currently retraining as IT Specialist for Data and Process Analysis (COMCAVE.COLLEGE, Essen)
-- Running local LLM inference on AMD Strix Halo (128 GB unified memory)
+- Orchestrating AI work across cloud and local — local execution layer bootstrapping on AMD Strix Halo (128 GB unified memory)
 - Multi-node setup: macOS + Linux over Tailscale
 - Source code is private — [showcase here](https://github.com/AIandI0x1/0x1-showcase)
 - Repository access on request: andre.hamm1@gmx.de
