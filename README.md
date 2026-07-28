@@ -1,4 +1,4 @@
-# Andre Hamm — 0x1
+0x1
 
 **Data Analytics · AI Governance · Agent Orchestration · Local-First AI**
 
