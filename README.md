@@ -28,7 +28,7 @@ Ported inference optimization tools to Strix Halo with documented evidence:
 
 All three verified on hardware: `_autodetect_gpu_type() = 'strix-halo'`
 
-## Standalone projects
+## Standalone projects used and contributed to (outdated)
 
 | Project | What it does |
 |---|---|
