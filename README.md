@@ -1,13 +1,35 @@
 0x1
 
-**Data Analytics · AI Governance · Agent Orchestration · Local-First AI**
+**Data Analytics · AI Governance · Agent Orchestration · Local/Cloud AI
 
-Building **0x1 — Orchestra Unified**, an AI-governed work orchestration platform
-that manages AI agents, verifies their output, and maintains a tamper-evident
+Building and using **0x1 — Orchestra Unified**, an AI-governed work orchestration platform
+that manages AI agents (1-10 cloud agents verified + local agents), verifies their output, and maintains a tamper-evident
 audit trail. 6,400+ Python modules, 14,310 commits, ~299K chained events.
 
-- Orchestrating AI work across cloud and local — local execution layer bootstrapping on AMD Strix Halo (128 GB unified memory)
-- Multi-node setup: macOS + Linux over private mesh
+My daily development driver.
+Contributions or any dev goes through my own System.
+
+Where 0x1 sits in the layers
+
+-Model Provider (API)-
+-Agent-Harness (hermes-agent, openclaw) ; IDE (soon called agent runtime) like Claude Code, Cursor, Codex, Devin et al.-
+-0x1 uses the above and others to achieve the operators Vision, goal and tasks-
+-OS (Mac, Linux et al.)-
+-Hardware-
+
+
+
+
+Modular. Only take what you need.
+Made for continuous self improvement, loves hermes-agent wink wink
+Being fully your own Operator and developer (fully customizable) 
+OS might be coming next year depending on recources
+Extensible
+
+
+- Orchestrating AI work across cloud and local — I am working hard to migrate 50-90% of all wort to the local execution layer which is bootstrapping on AMD Strix Halo (128 GB unified memory)
+- Multi-node setup: macOS + Linux over private mesh + Nvidia GPU
+    Goal: multi node, hardware independent mesh networks able to utilize and manage recource pools efficiently and productiveley
 - Source code is private — [showcase here](https://github.com/AIandI0x1/0x1-showcase)
 
 ## Main project
