@@ -12,7 +12,7 @@ Contributions or any dev goes through my own System.
 Where 0x1 sits in the layers
 
 -Model Provider (API)-
--Agent-Harness (hermes-agent, openclaw) ; IDE (soon called agent runtime) like Claude Code, Cursor, Codex, Devin et al.-
+-Agent-Harness (hermes-agent) ; IDE (soon called agent runtime) like Claude Code, Cursor, Codex, Devin et al.-
 -0x1 uses the above and others to achieve the operators Vision, goal and tasks-
 -OS (Mac, Linux et al.)-
 -Hardware-
